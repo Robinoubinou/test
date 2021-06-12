@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="utf-8" />
+    <meta name="description" content="Site perso" />
+    <meta name="keywords" content="mmi, robin, botella" />
+    <meta name="author" content="Robin Botella" />
+    <title>Accueil</title>
+    <link rel="stylesheet" href="../css/general.css" />
+</head>
+
+<body>
+
+
+    <h1>Robin Botella</h1>
+
+    <!-- Infos -->
+
+    <div id="case">
+
+        <img class="img" src="../img/img-accueil/photo2.jpg" alt="photo de Robin Botella">
+
+        <div id="info">
+            <p class="para"> J'ai 19 ans et je suis actuellement étudiant en
+                <a id="lien_tarbes" href="http://www.iut-tarbes.fr/dut-metiers-du-multimedia-et-de-l-internet-tarbes" target=_blank><b>DUT MMI</b></a> à Tarbes.
+            </p>
+        </div>
+    </div>
+
+
+</body></html>
